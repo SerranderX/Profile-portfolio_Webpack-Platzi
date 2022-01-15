@@ -5,3 +5,5 @@ This is a proyect made with the porpouse to learn how to work with webpack and k
 This project was made it in the Platzi Webpack workshop. 
 
 ¡Never stop learning! 
+
+Credits to the teacher: Oscar Barajas Tavares, Github: @gndx
